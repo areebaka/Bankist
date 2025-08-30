@@ -17,13 +17,6 @@ A **mock banking application** built with JavaScript that lets users manage acco
 
 ---
 
-## Data
-- Multiple accounts with owner, movements, interest rate, currency, and locale  
-- Each transaction has a date  
-- High-level use of **JavaScript objects, arrays, and methods**  
-
----
-
 ## Technologies
 - JavaScript (ES6+)  
 - DOM manipulation  
